@@ -1,0 +1,26 @@
+{
+  "name": "Estella Williams",
+  "age": 40,
+  "address": {
+    "street": "Escit Manor",
+    "city": "Citacuju",
+    "state": "TX",
+    "zip": "52196"
+  },
+  "contact": {
+    "phone": "(924) 218-7005",
+    "servicePhone": "800657131"
+  },
+  "birthday": "1987-07-04T17:49:05.846Z",
+  "ip": "120.106.107.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Cicu nomivi hiwwiwlaz mi funhabhof ta sapvir ica ni momaloh he am nopfuc norvur lijaz empot. Didvi zosiw wavuf ducko ar fe hicnuj ta liwit hize reterap dew jot lunzono ucugun faiki buep. Pusarmaw besdetus unhu wevtesler utilovpo galo hosemuwa lannidoje luzodzej vezi me atujur idtit.",
+    "bio": "Utawo gep wan jaifobe cedludino wo sor ifa recinaf ju udacig hortij bo doduw porek. Vah zepa fijsohi ukuuhihoc apelow wonlu esotu cakwub zafoc vud ral oveg ujlod lo nej zezdih jis. Gup tankakji kopubih jidcin ka nezir ruso hi wacolvu gabkod afa izevin gafre ijpa sajmigtap gin."
+  },
+  "apiKey": "d2ec32b843ca89acdb8250331b7e19721e2bb56a0f3e74b2a66755d2f5c66124",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Mark Henry",
+  "age": 39,
+  "address": {
+    "street": "Umcu Plaza",
+    "city": "Tujelir",
+    "state": "IL",
+    "zip": "69106"
+  },
+  "contact": {
+    "phone": "(587) 750-6882",
+    "servicePhone": "800751715"
+  },
+  "birthday": "2002-12-20T04:32:59.600Z",
+  "ip": "157.234.201.124",
+  "foo": "bar",
+  "profile": {
+    "about": "Utafe hiedicim doedifu sa kucu am daismuf kollo boopa keapu owgemkip inutuzu getukujo. Fujuhtel zej fe cepumut lamiut colantuf ac eb ragid ralcako ka awa kuopono wa maofu et lona jed. Ucpogir zut mucoteta vibetkic ine sag if ekatah gedi de bo onu diwuma ecfiwde lehevke ufuroesa. Imo okoge pegju wehfefip ec kacjigtu hu vuljucvok ruhlet jijpo juzuz confur. Eno cowsit rede jolwat parrovu pi nu mi ap jaju ihopata fil jigukdop culu detvijib ruz hur pedcaw. Viwilon hoz ujualeiv wisut ga ra reg rohcuufo vijo fupife lih welta tim vitaseewu minpidjab.",
+    "bio": "Pulop uwi bocfa zajok fa buhe idavovaw re vipzul opupmed rukfem zofobgom. Icve banavas masrugka pivfob po hukku uf envofbi nihunmen hegah diro rijelkik uz. Sanizuf awukor bud ibode cic vibefkal fintadi fa fujema iwi kuziot tebfela hevifeih hib ju honmolu. Ka uzitli douz sical ir idvahi alkis ro lapeb subgu jeur paji itsi aso lu jofaju."
+  },
+  "apiKey": "eb89c1cf473ecc064efd9a1282bf0cbdbabd9e7c019a0e6ea43727bcbbc03bbc",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}

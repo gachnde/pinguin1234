@@ -1,0 +1,26 @@
+{
+  "name": "Joel Hampton",
+  "age": 40,
+  "address": {
+    "street": "Irikej Loop",
+    "city": "Codcadag",
+    "state": "MD",
+    "zip": "70524"
+  },
+  "contact": {
+    "phone": "(946) 208-7074",
+    "servicePhone": "800711281"
+  },
+  "birthday": "2005-03-22T04:15:04.342Z",
+  "ip": "109.130.57.178",
+  "foo": "bar",
+  "profile": {
+    "about": "Taz dotutges hek jato fu cetehac conhonece feuwe bucka hojam ner ummolil okuati bacbuavo sadhejbis fukfooro ewaloz. Werelzo bafmek vehaep hotsu zif jel sukfihga wan wafioj co punulluk wizeuso fiw wumguce mam. Cugbatti hobha ugouja mek ca ga ralruzuho fug gi likoz ovi to zeg se suriize vic. Hahnanrub atgu kec pec veze reg wofesih cej be eb caz juvcuvuw jasavojo uholajrav not.",
+    "bio": "Huf don isuarfo owbujne ibaz eb ni dezwupi itilec cuot feznah hukugvut kufez ziiholed ziafu. Ibamola tidis rukkuchid pajjo bur ludu fol fu tihuase jujliwud of mezu. Rok su ozraple gehefa kujemu lodnave icro noh mep nirzohiw ozodojes ida."
+  },
+  "apiKey": "98e481ba9ba8b55f8671b2e42d503e732d7c6653866d7546d3ea8e9644575d60",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}

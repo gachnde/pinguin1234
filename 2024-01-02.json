@@ -1,0 +1,26 @@
+{
+  "name": "Steve Gonzalez",
+  "age": 38,
+  "address": {
+    "street": "Bunto Path",
+    "city": "Egopji",
+    "state": "SC",
+    "zip": "33371"
+  },
+  "contact": {
+    "phone": "(242) 294-2360",
+    "servicePhone": "800627477"
+  },
+  "birthday": "2005-11-05T06:29:46.624Z",
+  "ip": "154.28.138.248",
+  "foo": "bar",
+  "profile": {
+    "about": "Ovirazgag eto wowoh hide ag ves api rufon tuc do fure gun mevsewra. Kaj hodzino nufefid ri gok em su fumlawni binuf ku gemu comigmo wepug. Urazek hisrorwef epe ses sitom owimupa todili vo uk ko rukufo liptesu up ahuw. Wew amedohvih ted volahag gegfew toh sevik tokdetu awapgak pajhucu do oj ju.",
+    "bio": "Zok womujki tuvpatowe vetcoj ap de cuzaskoc siv mugek juweheuh hehvav kutfiz rone obpij sivdeffu egzev aca pulumu. Sud pe enekeeco dukpu saljicdi mukwo aboheibe wazuz coopolo kudkiv vawodli ilu ensidpe ra afujzi idnudov wuse uzibapu. Wemhalfa loc cuhlo em radaito fa ga peni vez tapfer hahik poc pos verton."
+  },
+  "apiKey": "c8c89059bce6dd84bb024c901b7d2e3331473c0d352af49862d5c213f3e024a1",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}

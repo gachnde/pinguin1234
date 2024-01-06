@@ -1,0 +1,26 @@
+{
+  "name": "Mabel Lowe",
+  "age": 24,
+  "address": {
+    "street": "Cagso Boulevard",
+    "city": "Wamemuowu",
+    "state": "AZ",
+    "zip": "45141"
+  },
+  "contact": {
+    "phone": "(703) 319-1709",
+    "servicePhone": "800951553"
+  },
+  "birthday": "1969-07-05T10:20:17.325Z",
+  "ip": "238.123.184.87",
+  "foo": "bar",
+  "profile": {
+    "about": "Ubak latnuhsap nufzas kosuj oc tidege benwi so vohtisla vimase migtozgic hebha. Iwgu relic wuspevos tonozi siwem dozen vihi nawizlav vo iw niocje meh ratekgob kaiwo tetetufi. Egi evisug epiva vib hihi jetdol febla za wok ogu nafep mur wolaowa. Elvic kicevoce naw deciup ojuvu ug hiddewo naglo ceciluk ovozo badgu utigezaf bejitsu sorfa jogben sinurgeb os.",
+    "bio": "Jelukekef fujen gozim obam tic dawre zahedgi zujew dozovvuz fuob jovawec tebzabip. Covun ad safuju bin go oce su pov wu usucegvet waghumbok tof. Wi fij hijuw bid beap surruthuf ova viwu pudvephar hupnubmar uwo lacgaud. Bok mabajgac bopgulofe jegeho rizdowmu jivpu tosho zaffa keja iz te ciovaedo ivo vahir orate zem. Naifvu wuwloklof gur balrep diga liud bi harufo dam nufivid ofopamaz fu jibebve kujunpi ut tizucah vo. Ruwkouh ecsim mo set azo hak rah hahid utraam zij cukeg sore cemovem wewgi digeb."
+  },
+  "apiKey": "34f3a444469f37acc5685cdeabaa14e8a123ef988e6ae6f400b6fe1f0c99c44f",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Maria Tran",
+  "age": 61,
+  "address": {
+    "street": "Tiviw Park",
+    "city": "Bowodbat",
+    "state": "CA",
+    "zip": "07024"
+  },
+  "contact": {
+    "phone": "(252) 515-5956",
+    "servicePhone": "800679115"
+  },
+  "birthday": "1982-03-01T04:13:43.015Z",
+  "ip": "155.207.123.212",
+  "foo": "bar",
+  "profile": {
+    "about": "Zeslog cudaevu cej une vetuc ratima zib ned ge ra lali raegahi hi. Ribfevi joetosok pasa ne fokizri ha zejhejuf ibope bita lekwa duez go pu ma nepnu. Puvla mikbar wodor rulmupned ci hoog asahiw tep enefejci cin kaic tucag vipa wepocrit suzuv uvetovrew.",
+    "bio": "Jup itote kazha uzobieto ode tofifoz mecpezdem witot ho uposo fifa kessiez zapsuni zodfowe daco ulowukig epius niuri. Ho boghi bibvizva fiuplok pivaljos omokel nabedget he ruc zugah hugosup ef koekano vaka subogire eczitfu. Ohiko evjawiv zozob igidi cuvpob lu anu cekedije fe pebo zehdizji pijekna antona rul finani wosloriva dul."
+  },
+  "apiKey": "512922bf4d383349d579a961676a755a68380b830d77c7c77a9b220f5442ee33",
+  "currency": {
+    "code": "TJS",
+    "name": "Tajikistan Somoni"
+  }
+}

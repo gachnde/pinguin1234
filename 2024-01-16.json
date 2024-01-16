@@ -1,0 +1,26 @@
+{
+  "name": "Tony French",
+  "age": 57,
+  "address": {
+    "street": "Waot Parkway",
+    "city": "Weospe",
+    "state": "MA",
+    "zip": "61990"
+  },
+  "contact": {
+    "phone": "(932) 345-9314",
+    "servicePhone": "800672637"
+  },
+  "birthday": "2001-12-26T02:19:22.252Z",
+  "ip": "24.151.164.6",
+  "foo": "bar",
+  "profile": {
+    "about": "Leluga ha netucal mow rawofwab jagdo de natoldaz duswabvi tul vic zonelo cewotova ahjogsa ne gasra. Batdica sala te nec jokje tafav fuj fimovigub sokwap pewzuw secufid lugjo abuudzej fuvpak ef vikjuri nute. Zazdomuw gi nehdecef vejiici bornuldaf fazdespu du elooho riwji fuf pocoso taharga owetovu riuzeuk sijod pojranev uggep hok. Zarvu humiwib zedpaf mac wahkotcu evziswu egcigbad lajlaed it bihavazaj vefrakcah pik ufuhe.",
+    "bio": "Zivpovvan kovobu atumovuv cifeh miksojno duftu jinutu pibisop jug hun niflirer gom lizlekuru foma ler onijamek de. Zug lopu ma roz kovmaab poobtef un ota he iko wililci bavdipko bo dojif ro zav vul am. Gemaliw juij jine osotifo peumifo ajzizca ruj fuvok hiuzog mamipe musig zahli ker wigoovu pazson. Vi nub wu roczaf huna uri nejim fanki fa su tumcuh acajit ecesejti vuctulve pu wogkusog ovabeh ofamu."
+  },
+  "apiKey": "19a930cc5c901059653da499489b9eb43daeddc5c62ad91f4536eb7c3cc5e533",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}

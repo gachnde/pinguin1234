@@ -1,0 +1,26 @@
+{
+  "name": "Glen Powers",
+  "age": 30,
+  "address": {
+    "street": "Fajmer Plaza",
+    "city": "Ashocdes",
+    "state": "PA",
+    "zip": "84594"
+  },
+  "contact": {
+    "phone": "(759) 301-8000",
+    "servicePhone": "800548165"
+  },
+  "birthday": "2006-08-06T18:33:53.328Z",
+  "ip": "92.248.78.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Gafrom kembo gufa lakek lasce pa jim buz jofnimin dolerek uk pejho to me. Koaj dulturma pacjale jisi ruf eb noitavu kifsanfi ajiwokmij emvaja judsodisu bi gal. Jicemuv ufketas jefnejo bifba tuc luwlawiz veez win movapuci po ofa vifmana ma paza rulibi jato. Pojat docradi cit eluob gupacic uwo kufhej guzafoc ave mob fegi jehja. Jo tappi mep jibiwac lul biage ro rujfugez fu ozo gu su.",
+    "bio": "Iz cognosro wura su me zah hur koga buwupsid peedopu rujgaroje facena gu co wuzfen. Vutageowa ubtitkoj mi pira kusca bedag dohawada savapa gomonih ovianig zizodpo moj. Pub muw karmeufa vob cula ega bewvas ilhirlad zu ri ravalmo wi aptiz uzec ulotuma bopvacbi afocibej. Dek fagvitu hium nizce fejaj lemezar ortuage narot med nor mep opa gag go fin jamfasi lurepum."
+  },
+  "apiKey": "c035981d208db69e590286757e1ff8cf2829936b01a781caeff9278101567ca7",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}

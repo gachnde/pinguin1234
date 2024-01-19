@@ -1,0 +1,26 @@
+{
+  "name": "Hunter Ferguson",
+  "age": 47,
+  "address": {
+    "street": "Linu Extension",
+    "city": "Lilece",
+    "state": "AR",
+    "zip": "67688"
+  },
+  "contact": {
+    "phone": "(464) 390-3373",
+    "servicePhone": "800794253"
+  },
+  "birthday": "1991-03-17T20:49:38.719Z",
+  "ip": "159.177.56.253",
+  "foo": "bar",
+  "profile": {
+    "about": "Gulsusu cih bi coga zodiznas sajemaz mal ruwbu ana jeujju dupaplig gacod. Jupmu vohlemnak welok eloikafo wucetril musi paobevi zoamu oza uno nucije ewu ver uh. Sejmo pewova gabipo nu ugpadzec bouj berib cokawezi kopipisob ku ecibob med ze ro nezi.",
+    "bio": "Su jivgir so vadtis odoh weawvub igjutkif oz lakra izjo dajuvuv ovoru fifaswi. Op hu ceenro ubbasew cojson tehikde wosha bi makug beva duz elocavdic uf cifem ha bawas jotolhod da. Jukasoemu nugoz wa zaveb acoptod cifma erusila huvi cizif fovtev izu peonijot fazepta ho si ruamuow. Nofodufi hijeseba cim cif ot suhev ne faf wa jitpukcer ra gemag pikgo uwsifwur ontewhul zo ci."
+  },
+  "apiKey": "2a19906e6db82df3dd48fa1fc27fe8cdecf813dadd7126b40e6cf2705377f188",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}

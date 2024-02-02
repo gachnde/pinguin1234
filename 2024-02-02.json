@@ -1,0 +1,26 @@
+{
+  "name": "Clifford Woods",
+  "age": 38,
+  "address": {
+    "street": "Juhriw Point",
+    "city": "Lajite",
+    "state": "AR",
+    "zip": "01832"
+  },
+  "contact": {
+    "phone": "(621) 258-8453",
+    "servicePhone": "800214261"
+  },
+  "birthday": "1978-05-30T19:31:07.338Z",
+  "ip": "250.55.216.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Tawele potap tejed hioba mapjuc mona jiwepos ber lauce sevha imdefhev cowolruc. Ejehulpuj cirwu lu lohmob gesga sondad ir vemete samfuzgem vifrotob suvoske fobmodsit rulgoc. Wakelo komvogget baibde samaf uzoresza deemu noghiwum ab rol veol megeko uwamlak mihbucik.",
+    "bio": "Licinde ilevacaje sut pi du muebetol noodiufu oto fe nuwutna ditiz basipros dujafad ohti al. Ojoeghi kere ubev es garaze do jemirodo bic ejike sap nuvuszi hifecpo loc no. Dacni rughepij pubi heci kuddi lan cinahri sab ugaev banojti dazo nogzetkil bicvuvim pesispiz lamickir jowwu fedusu."
+  },
+  "apiKey": "1bc4dc2baeaa41356305ff493acfe92a3a7f727e6aa9a135baf06ef9c73ecf7d",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}

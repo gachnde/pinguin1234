@@ -1,0 +1,26 @@
+{
+  "name": "David Harper",
+  "age": 26,
+  "address": {
+    "street": "Anuomi Junction",
+    "city": "Getivoh",
+    "state": "UT",
+    "zip": "66680"
+  },
+  "contact": {
+    "phone": "(789) 674-5610",
+    "servicePhone": "800752342"
+  },
+  "birthday": "1964-02-21T06:06:30.751Z",
+  "ip": "178.242.177.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Tenofa icige kegoh utu hocedsaf dadlo hooz ro cuhi jepij vela weud luzzujnig haru lo ikmi eb. Po biwvov pasitker fapasin semsur apva idulival vodohden suvnefe saka od mevhofhev am. Jenja pimbo lis rur ato gop dovmuba ol fi nud vi oboin.",
+    "bio": "Leutoam te ka garipop tir suris gitiwwip vut riuwi jevti ijeuhiw hojpof rub zav taszug hazol tugic. Karwujduh umotuf wutujo hefi calaguko nodlebil fohikip zinnezuw ocoura dofmi inooke naf. Dedmakdih cit zezic mifsa leh ot nerruglod samigo umepowi kijhovvon ivadeh uga fem duppome jamfujom meh zesgo iszip. Su lusrepu hosrugo fijdotus maner kuunumod isenafe rod dutvij devpuiso vavofi ze beke jacgej."
+  },
+  "apiKey": "75c21158bfc03e11e1d3a60022aa5c27006855680c77654af83027c427a9f650",
+  "currency": {
+    "code": "LRD",
+    "name": "Liberia Dollar"
+  }
+}

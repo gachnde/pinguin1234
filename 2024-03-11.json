@@ -1,0 +1,26 @@
+{
+  "name": "Don Bowen",
+  "age": 60,
+  "address": {
+    "street": "Feweg Park",
+    "city": "Furgarmec",
+    "state": "WI",
+    "zip": "74305"
+  },
+  "contact": {
+    "phone": "(877) 297-9258",
+    "servicePhone": "800525652"
+  },
+  "birthday": "1985-10-31T12:37:46.851Z",
+  "ip": "161.243.203.148",
+  "foo": "bar",
+  "profile": {
+    "about": "Ga aliroan dukoh ujkawi wefneb cajomsip teto fup pebki lo muh vesul. Jaem dab ut vomosuz me sonu jurpot mo gop icpisup tuhen cocisig rojji rakbehde fupow ganuk. Fah iraihder okdiz lizerur ravca puodazu fo hor lojgurag guale fedtis ib biolamic vob wa.",
+    "bio": "Efomonpe co hafgu izi arekuwo bigine ozouvi uvmed vuzlizuti olke toksi zictugok wis zet. Linwuone em homohu eg midirta menjeav jizhejam fini kod raukawe icoron im uke. Ovi caac soksuhuj ijgaj fefutidib ic ceg ejeno he muk dafehte fiza gu."
+  },
+  "apiKey": "d0f08372fdd8eebd6ffb3dd1a7cd8a4e5501e5be65e1ec73ee04a3441800e44d",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
